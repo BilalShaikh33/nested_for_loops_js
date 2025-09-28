@@ -12,8 +12,7 @@ var col = 3
 
 
 // var a = ""
-// var b = " "
-//     for (var i = 0; i<row;i++){
+//     for (var i = 0; i<4;i++){
 //         for(var j = 0; j<1 ;j++){
             
 //             a = a +" " + "*"
@@ -42,16 +41,17 @@ var col = 3
 //     console.log(a) 
 
 
-var b = 1
-for (var i = 0; i < 4; i++) {
-    var a = ""
-    for (var j = 0; j < 3; j++) {
-            a += " "+ b*3
-            b++
+
+// var b = 1
+// for (var i = 0; i < 4; i++) {
+//     var a = ""
+//     for (var j = 0; j < 3; j++) {
+//             a += " "+ b*3
+//             b++
         
         
-        }
-        console.log(a) 
-}
+//         }
+//         console.log(a) 
+// }
 
 
