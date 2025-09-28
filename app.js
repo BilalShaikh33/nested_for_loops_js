@@ -40,4 +40,18 @@ var col = 3
         
 //     }
 //     console.log(a) 
-// }
+
+
+var b = 1
+for (var i = 0; i < 4; i++) {
+    var a = ""
+    for (var j = 0; j < 3; j++) {
+            a += " "+ b*3
+            b++
+        
+        
+        }
+        console.log(a) 
+}
+
+
