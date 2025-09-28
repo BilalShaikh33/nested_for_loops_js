@@ -1,3 +1,6 @@
+var row = 3
+var col = 3
+
 //     for (var i = 0; i<2;i++){
 //         var a = ""
 //         for(var j = 0; j<2 ;j++){
@@ -5,7 +8,6 @@
 //         }
 // }
 //         console.log(a,"\n")
-
 
 
 var b = 0
